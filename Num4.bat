@@ -1,3 +1,3 @@
 @echo off
-copy SUTD copyedSUTD
+xcopy SUTD copyedSUTD
 pause
